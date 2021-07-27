@@ -27,6 +27,10 @@
     color: var(--cm-gutter-ink);
 }
 
+.CodeMirror-cursor {
+    border-color: var(--cm-cursor);
+}
+
 .CodeMirror-activeline-background {
     background-color: var(--cm-currentline);
 }

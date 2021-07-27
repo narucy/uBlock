@@ -326,6 +326,7 @@ html#ublock0-epicker, #ublock0-epicker body
         --cm-selection-ink: var(--default-ink);
         --cm-searching-surface: #256;
         --cm-currentline: #223;
+        --cm-cursor: #fff;
 
         /* syntax highlight: static filtering */
         --sf-comment-ink: #999;
